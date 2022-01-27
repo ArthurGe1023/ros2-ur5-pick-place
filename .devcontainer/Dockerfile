@@ -1,4 +1,4 @@
-FROM althack/ros2:foxy-dev 
+FROM althack/ros2:galactic-gazebo-nvidia
 
 # ** [Optional] Uncomment this section to install additional packages. **
 #
