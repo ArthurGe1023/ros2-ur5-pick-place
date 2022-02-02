@@ -1,6 +1,6 @@
-# VSCode ROS2 Workspace Template
+# VSCode ROS2 and UR5 Gazebo Simulation Workspace
 
-This template will get you set up using ROS2 with VSCode as your IDE.
+This template will get you set up using ROS2+UR5+Gazebo Simulation with VSCode as your IDE. 
 
 
 ## How to use this template
@@ -16,7 +16,7 @@ You should already have Docker and VSCode with the remote containers plugin inst
 
 ### Clone your repo
 
-Now you can clone your repo as normal
+Now you can clone this repo as normal
 
 ![template_download](https://user-images.githubusercontent.com/6098197/91332342-e4e0f680-e780-11ea-9525-49b0afa0e4bb.png)
 
