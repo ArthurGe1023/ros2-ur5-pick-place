@@ -50,5 +50,5 @@ vcs import src --input src/Universal_Robots_ROS2_Gazebo_Simulation/Universal_Rob
 
 rosdep install --ignore-src --from-paths src -y -r       # install also is there are unreleased packages
 
-then build
+then “build”
 
