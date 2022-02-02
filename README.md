@@ -89,3 +89,10 @@ VSCode will build the dockerfile inside of `.devcontainer` for you.  If you open
    1. If you are using a `ros2.repos` file, import the contents `Terminal->Run Task..->import from workspace file`
 2. Install dependencies `Terminal->Run Task..->install dependencies`
 3. Develop!
+
+
+### UR_Gazebo_Simulation package
+vcs import src --input src/Universal_Robots_ROS2_Gazebo_Simulation/Universal_Robots_ROS2_Gazebo_Simulation.galactic.repos
+rosdep install --ignore-src --from-paths src -y -r       # install also is there are unreleased packages
+then build
+
